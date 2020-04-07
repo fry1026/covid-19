@@ -1,0 +1,6 @@
+bokeh
+altair
+pandas
+numpy
+qgrid
+IPython
